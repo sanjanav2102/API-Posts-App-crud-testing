@@ -8,6 +8,11 @@ another screen.
 Here, unit testing on all the CRUD operations done
 
 ## Features learnt
+* ScreenOne *
+  -  TextEditingController
+  -  SharedPreferences -- .getInstance(), <sp_var>.setString(<identifier>, <value>),
+  SharedPreferences is a package that enables the Application to store a small amount of data in your local storage.
+  - Navigation -- Navigator.of(context), .push(...),MaterialPageRoute(builder: (_) => ScreenTwo())
 
 
 ## Screenshots
