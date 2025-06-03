@@ -17,3 +17,5 @@ Here, unit testing on all the CRUD operations done
 
 ## Screenshots
 <img width="167" alt="image" src="https://github.com/user-attachments/assets/b82a8663-51aa-4c72-8cbf-cdb05115061f" />
+<img width="192" alt="image" src="https://github.com/user-attachments/assets/9a8d2999-008c-4459-a5ce-e4363a2fb376" />
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/bd0b96f8-914d-46a9-9aa5-6162676764d6" />
